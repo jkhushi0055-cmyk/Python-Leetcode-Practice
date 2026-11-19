@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
