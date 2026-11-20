@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0066-plus-one) |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
+| [1732-find-the-highest-altitude](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
