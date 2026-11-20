@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2325-decode-the-message](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2325-decode-the-message) |
 ## String Matching
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2325-decode-the-message](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2325-decode-the-message) |
 ## Counting
 |  |
 | ------- |
