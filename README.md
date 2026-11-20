@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0066-plus-one) |
+| [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -56,9 +57,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
 |  |
 | ------- |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
