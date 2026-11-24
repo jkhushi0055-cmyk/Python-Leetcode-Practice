@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
 | [1732-find-the-highest-altitude](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -77,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
