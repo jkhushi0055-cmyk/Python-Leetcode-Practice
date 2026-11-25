@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2399-check-distances-between-same-letters](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2399-check-distances-between-same-letters) |
+| [2404-most-frequent-even-element](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
@@ -80,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2325-decode-the-message](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2325-decode-the-message) |
 | [2399-check-distances-between-same-letters](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2399-check-distances-between-same-letters) |
+| [2404-most-frequent-even-element](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2404-most-frequent-even-element) |
 ## Counting
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0819-most-common-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2404-most-frequent-even-element](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2404-most-frequent-even-element) |
 ## Bit Manipulation
 |  |
 | ------- |
