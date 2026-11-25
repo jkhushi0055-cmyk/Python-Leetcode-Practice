@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0819-most-common-word](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0819-most-common-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2325-decode-the-message](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2325-decode-the-message) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
+| [0819-most-common-word](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0819-most-common-word) |
 | [1732-find-the-highest-altitude](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Math
@@ -70,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
+| [0819-most-common-word](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0819-most-common-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2325-decode-the-message](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2325-decode-the-message) |
 ## Counting
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0819-most-common-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Bit Manipulation
