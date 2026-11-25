@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2325-decode-the-message) |
 | [2399-check-distances-between-same-letters](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2399-check-distances-between-same-letters) |
 ## String Matching
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0819-most-common-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2325-decode-the-message) |
 | [2399-check-distances-between-same-letters](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2404-most-frequent-even-element) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Enumeration
+|  |
+| ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 <!---LeetCode Topics End-->
