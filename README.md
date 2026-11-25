@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0819-most-common-word](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0819-most-common-word) |
+| [2278-percentage-of-letter-in-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2325-decode-the-message](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2325-decode-the-message) |
