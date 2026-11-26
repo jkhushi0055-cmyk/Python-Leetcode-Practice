@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0819-most-common-word) |
+| [0977-squares-of-a-sorted-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2399-check-distances-between-same-letters](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2399-check-distances-between-same-letters) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Prefix Sum
 |  |
