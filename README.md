@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0268-missing-number) |
 ## Newton's Method
