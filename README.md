@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
