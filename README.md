@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0819-most-common-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
@@ -136,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
