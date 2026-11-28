@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0819-most-common-word](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/0819-most-common-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2278-percentage-of-letter-in-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/jkhushi0055-cmyk/Python-Leetcode-Practice/tree/master/2287-rearrange-characters-to-make-target-string) |
